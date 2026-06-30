@@ -104,9 +104,21 @@ The application will open in your browser.
 
 ---
 
+## 🎥 Project Demo
+
+Watch the live demonstration here: https://github.com/chetnagupta110606-netizen/Handwritten-Character-Recognition/blob/main/codeAlpha2.mp4
+
+
 ## 👨‍💻 Author
 
 **Chetna Gupta**
 
+Machine Learning Enthusiast
+
+GitHub: https://github.com/chetnagupta110606-netizen
+
+LinkedIn: https://linkedin.com/in/chetna-gupta-524b86384
+
 ---
 
+## ⭐ If you found this project useful, consider giving it a star on GitHub!
